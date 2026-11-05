@@ -1,0 +1,4 @@
+[
+  { "name": "VS Code", "type": "برنامج", "level": "متقدم", "example": "تطوير مشاريع الويب", "is_public": true },
+  { "name": "Figma", "type": "موقع", "level": "متوسط", "example": "تصميم واجهات", "is_public": true }
+]

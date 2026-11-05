@@ -1,0 +1,11 @@
+[
+  {
+    "name": "السيرة الذاتية الذكية",
+    "description": "موقع يجاوب فيه مساعد ذكاء اصطناعي عن صاحبه من بياناته فقط.",
+    "role": "مطوّر المشروع كاملًا",
+    "technologies": ["Next.js", "TypeScript", "Gemini API"],
+    "results": [],
+    "url": "https://github.com/ibrahimbaabdullah-jpg/Smart-CV",
+    "is_public": true
+  }
+]
