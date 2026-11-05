@@ -1,0 +1,33 @@
+{
+  "name": {
+    "ar": "إبراهيم باعبدالله",
+    "en": "Ibrahim Baabdallah"
+  },
+  "title": {
+    "ar": "اكتب مسماك المهني هنا",
+    "en": "Your job title here"
+  },
+  "summary": {
+    "ar": "نبذة مختصرة عنك: من أنت، وش تسوي، ووش يميزك. (بيانات مثال، عدّلها)",
+    "en": "A short summary about you. (Sample data, edit it)"
+  },
+  "location": {
+    "ar": "المدينة، الدولة",
+    "en": "City, Country"
+  },
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ibrahimbaabdullah-jpg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/"
+    }
+  ],
+  "contact_note": {
+    "ar": "للتواصل المباشر استخدم رابط LinkedIn.",
+    "en": "For direct contact, use the LinkedIn link."
+  },
+  "grammatical_gender": null
+}

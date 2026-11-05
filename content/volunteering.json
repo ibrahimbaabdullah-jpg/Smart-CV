@@ -1,0 +1,10 @@
+[
+  {
+    "organization": "اسم الجهة (مثال)",
+    "role": "الدور",
+    "period": "2024",
+    "hours": 20,
+    "impact": "وش كان أثر مشاركتك",
+    "is_public": true
+  }
+]

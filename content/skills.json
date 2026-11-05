@@ -1,0 +1,5 @@
+[
+  { "name": "Python", "category": "technical", "level": "متقدم", "years": 2, "is_public": true },
+  { "name": "العمل الجماعي", "category": "soft", "level": "متقدم", "years": null, "is_public": true },
+  { "name": "الإنجليزية", "category": "language", "level": "جيد جدًا", "years": null, "is_public": true }
+]

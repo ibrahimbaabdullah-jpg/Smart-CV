@@ -1,0 +1,11 @@
+[
+  {
+    "organization": "اسم الجهة (مثال)",
+    "role": "المسمى الوظيفي",
+    "start": "2024-01",
+    "end": null,
+    "responsibilities": ["مهمة رئيسية 1", "مهمة رئيسية 2"],
+    "achievements": ["إنجاز بأرقام إن أمكن"],
+    "is_public": true
+  }
+]

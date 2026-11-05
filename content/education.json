@@ -1,0 +1,10 @@
+[
+  {
+    "institution": "اسم الجامعة (مثال)",
+    "major": "التخصص",
+    "degree": "بكالوريوس",
+    "gpa": null,
+    "year": 2023,
+    "is_public": true
+  }
+]
